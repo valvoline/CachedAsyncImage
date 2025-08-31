@@ -11,7 +11,8 @@ It works similarly to `AsyncImage`, but gives you full control over `URLRequest`
 
 [![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange.svg?style=flat-square)](https://swift.org)
 [![SPM Compatible](https://img.shields.io/badge/SPM-compatible-brightgreen.svg?style=flat-square)](https://swift.org/package-manager/)
-[![License: BSD-3](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg?style=flat-square)](https://opensource.org/licenses/BSD-3-Clause)
+
 
 ---
 
